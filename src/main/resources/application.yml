@@ -1,0 +1,3 @@
+server:
+  context-path: /MyFirstApplication
+  port: 8085

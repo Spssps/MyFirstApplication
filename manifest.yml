@@ -1,0 +1,7 @@
+---
+path: target/MyFirstApplication-1.0.war
+buildpack: java_buildpack
+applications:
+ - name: MyFirstApplication
+   instances: 1
+   host: MyFirstApplication-dev
