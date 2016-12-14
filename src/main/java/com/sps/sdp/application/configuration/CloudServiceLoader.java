@@ -1,4 +1,4 @@
-package com.sps.sdp.configuration;
+package com.sps.sdp.application.configuration;
 
 import java.util.Arrays;
 import java.util.HashMap;

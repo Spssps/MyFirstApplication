@@ -1,4 +1,4 @@
-package com.sps.sdp.configuration;
+package com.sps.sdp.application.configuration;
 
 import javax.sql.DataSource;
 

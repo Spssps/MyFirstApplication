@@ -1,4 +1,4 @@
-package com.sps.sdp.configuration;
+package com.sps.sdp.application.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
