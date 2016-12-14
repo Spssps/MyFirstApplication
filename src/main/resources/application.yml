@@ -1,3 +1,6 @@
 server:
   context-path: /MyFirstApplication
   port: 8085
+  
+spsdp:
+  clear-db-data-source-name: ClearDB 
